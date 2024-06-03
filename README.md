@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/travel_ui_ux/assets/151519281/c72ebf75-847d-4a98-8f8a-24be02dac752" alt="Project Banner">
-    </a>
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F95771929561333999%2F&psig=AOvVaw0oTsYs59GIt5UV2JecFp1O&ust=1717525323331000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjL-8qGwIYDFQAAAAAdAAAAABAE" alt="Project Banner">
   <br />
 
   <div>
@@ -11,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Travel Website</h3>
+  <h3 align="center">TravelApp_Landing_Page</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
@@ -24,25 +22,16 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. 🔗 [Links](#links)
+6. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+This repository contains the code corresponding to a developed web-app landing page of travel website. 
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -57,7 +46,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
 
+👉 **App's Gallery Section**: A section comprising of all the pictures of the app's interface, on how it looks!
+
 👉 **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
+
+👉 **Pricing & Subscription Section**: This sections includes all the subscription plan details if the user wants to subscribe to the app.
+
+👉 **User Feedback Section**: To maintain user credibility and interest this section takes user honest feedback, and then changes can be done.
 
 👉 **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
 
@@ -80,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel_ui_ux.git
-cd travel_ui_ux
+git clone https://github.com/akshatbhatt12/travelapp_landing_page.git
+cd Travelapp_landing_page
 ```
 
 **Installation**
@@ -99,8 +94,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>constants.index.ts</code></summary>
@@ -421,30 +414,3 @@ module.exports = {
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-Assets used in the project are here [here](https://drive.google.com/file/d/10bwdMeLAl7scTjrorqtG3v2Z6b4b7S-w/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
