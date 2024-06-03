@@ -10,10 +10,6 @@
   </div>
 
   <h3 align="center">TravelApp_Landing_Page</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -52,7 +48,7 @@ Built with Next.js, TailwindCSS, and TypeScript, this landing page not only look
 
 👉 **Pricing & Subscription Section**: This sections includes all the subscription plan details if the user wants to subscribe to the app.
 
-👉 **User Feedback Section**: To maintain user credibility and interest this section takes user honest feedback, and then changes can be done.
+👉 **User Feedback Section**: To maintain user credibility and interest, this section takes user honest feedback, and then changes are appreciated.
 
 👉 **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
 
@@ -75,7 +71,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/akshatbhatt12/travelapp_landing_page.git
+git clone https://github.com/akshatbhatt12/Travelapp_landing_page.git
 cd Travelapp_landing_page
 ```
 
